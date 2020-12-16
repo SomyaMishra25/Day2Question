@@ -5,3 +5,10 @@ C:\dotnet\devops\Day2Q\Day2Ques\primenumberSolution\primenumber\obj\Debug\primen
 C:\dotnet\devops\Day2Q\Day2Ques\primenumberSolution\primenumber\obj\Debug\primenumber.csproj.CoreCompileInputs.cache
 C:\dotnet\devops\Day2Q\Day2Ques\primenumberSolution\primenumber\obj\Debug\primenumber.exe
 C:\dotnet\devops\Day2Q\Day2Ques\primenumberSolution\primenumber\obj\Debug\primenumber.pdb
+C:\Users\rsowm\Documents\LTI Training\Specialization\CloneFolder2\Day2Question\primenumberSolution\primenumber\bin\Debug\primenumber.exe.config
+C:\Users\rsowm\Documents\LTI Training\Specialization\CloneFolder2\Day2Question\primenumberSolution\primenumber\bin\Debug\primenumber.exe
+C:\Users\rsowm\Documents\LTI Training\Specialization\CloneFolder2\Day2Question\primenumberSolution\primenumber\bin\Debug\primenumber.pdb
+C:\Users\rsowm\Documents\LTI Training\Specialization\CloneFolder2\Day2Question\primenumberSolution\primenumber\obj\Debug\primenumber.csprojAssemblyReference.cache
+C:\Users\rsowm\Documents\LTI Training\Specialization\CloneFolder2\Day2Question\primenumberSolution\primenumber\obj\Debug\primenumber.csproj.CoreCompileInputs.cache
+C:\Users\rsowm\Documents\LTI Training\Specialization\CloneFolder2\Day2Question\primenumberSolution\primenumber\obj\Debug\primenumber.exe
+C:\Users\rsowm\Documents\LTI Training\Specialization\CloneFolder2\Day2Question\primenumberSolution\primenumber\obj\Debug\primenumber.pdb
