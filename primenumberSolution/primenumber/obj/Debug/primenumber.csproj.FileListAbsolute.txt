@@ -1,0 +1,7 @@
+C:\dotnet\devops\Day2Q\Day2Ques\primenumberSolution\primenumber\bin\Debug\primenumber.exe.config
+C:\dotnet\devops\Day2Q\Day2Ques\primenumberSolution\primenumber\bin\Debug\primenumber.exe
+C:\dotnet\devops\Day2Q\Day2Ques\primenumberSolution\primenumber\bin\Debug\primenumber.pdb
+C:\dotnet\devops\Day2Q\Day2Ques\primenumberSolution\primenumber\obj\Debug\primenumber.csprojAssemblyReference.cache
+C:\dotnet\devops\Day2Q\Day2Ques\primenumberSolution\primenumber\obj\Debug\primenumber.csproj.CoreCompileInputs.cache
+C:\dotnet\devops\Day2Q\Day2Ques\primenumberSolution\primenumber\obj\Debug\primenumber.exe
+C:\dotnet\devops\Day2Q\Day2Ques\primenumberSolution\primenumber\obj\Debug\primenumber.pdb
